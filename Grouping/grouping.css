@@ -1,0 +1,10 @@
+div,article{
+    background-color: green;
+    color:antiquewhite;
+    text-align: center;
+}
+
+#id1,#id2{
+    border: 1px solid;
+    border-color: black;
+}
